@@ -18,7 +18,6 @@ void Problem1::Run()
 	}
 
 	std::cout << "Answer: " << sum << std::endl << std::endl;
-	std::getchar();
 }
 
 Problem1::Problem1()
