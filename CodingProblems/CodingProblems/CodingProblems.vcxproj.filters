@@ -39,6 +39,12 @@
     <ClInclude Include="Problem6.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Problem7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -63,6 +69,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Problem6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
